@@ -66,25 +66,7 @@ WEB-приложение позволяет пользователю зарег�
 | Реализуемый элемент | Описание |
 |--------------------|----------|
 | Структура проекта | index.html / style.css / script.js |
-| HTML-разметка | 
-    <h1>SIGN UP</h1>
-    <div class="form">
-        <label class="input">
-            <input type="text" placeholder="First Name">
-        </label>
-        <label class="input">
-            <input type="text" placeholder="Last Name">
-        </label>
-
-        <label class="input">
-            <input type="email" placeholder="Email">
-        </label>
-        <label class="input">
-            <input type="text" placeholder="Password">
-        </label>
-        <div>Already have an account? <a href="#">Log in!</a></div>
-        <button name="send">Continue</button>
-|
+| HTML-разметка | <h1>SIGN UP</h1><div class="form"><label class="input"><input type="text" placeholder="First Name"></label><label class="input"><input type="text" placeholder="Last Name"></label><label class="input"><input type="email" placeholder="Email"></label><label class="input"><input type="text" placeholder="Password"></label><div>Already have an account? <a href="#">Log in!</a></div><button name="send">Continue</button></div> |
 | Подключение JavaScript | <script src="script.js"></script> |
 
 ---
