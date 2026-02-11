@@ -83,7 +83,8 @@ WEB-приложение позволяет пользователю зарег�
             <input type="text" placeholder="Password">
         </label>
         <div>Already have an account? <a href="#">Log in!</a></div>
-        <button name="send">Continue</button>|
+        <button name="send">Continue</button>
+|
 | Подключение JavaScript | <script src="script.js"></script> |
 
 ---
